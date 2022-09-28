@@ -7,6 +7,9 @@ from flask_debugtoolbar import DebugToolbarExtension
 app.config['SECRET_KEY'] = 'woeifwofb3454rf'
 debug = DebugToolbarExtension(app)
 
+import requests
+
+
 
 @app.route('/')
 def home():
