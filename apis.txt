@@ -1,0 +1,3 @@
+Teams - GET https://statsapi.web.nhl.com/api/v1/Teams
+
+documentation: https://github.com/dword4/nhlapi#teams
